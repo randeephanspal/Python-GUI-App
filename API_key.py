@@ -1,0 +1,3 @@
+
+
+OWM_API_KEY = '1d27e8fe23707f4b121cac66598dceec'
